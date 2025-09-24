@@ -1,0 +1,24 @@
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: rgba(82, 222, 82, 0.847);
+    color: rgb(31, 77, 61);
+}
+.cabecalho{
+    background-color:#c184a6 ;
+    text-align: center;
+}
+p {
+    color: rgb(31, 72, 40);
+}
+.cabecalho :first-child {
+    font-weight: bold;
+    color: #E4005A;
+    font-size: 42px;
+}
+
+
+.conteudo{
+    color: rgb(31, 77, 61);
+}
+
